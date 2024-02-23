@@ -1,8 +1,8 @@
 var msgs = [
-  "Hello I am Sagar",
-  "I Created this this Animation :)"
+  "YOUR_NAME is learning Git 😄",
 ];
 
+// Typewriting Program
 var msgIdx = -1;
 function nextMsg (){
   msgIdx = (msgIdx+1)%msgs.length;
