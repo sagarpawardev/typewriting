@@ -56,3 +56,4 @@ function toggleVisiblity(){
 
 typeNextIn(0);
 blinkCursor();
+/*HI*/
