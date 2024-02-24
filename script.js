@@ -1,4 +1,4 @@
-var msgs = ["Dattu is learning Git 😄"];
+var msgs = ["Thankyou for your time to pave a way for us"];
 
 // Typewriting Program
 var msgIdx = -1;
