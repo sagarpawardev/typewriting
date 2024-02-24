@@ -1,5 +1,5 @@
 var msgs = [
-  "Sagar Pawar is learning Git 😄",
+  "Jaswanth is learning Git 😄",
 ];
 
 // Typewriting Program
